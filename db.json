@@ -1,0 +1,18 @@
+    {
+        "users": [
+            {
+
+                "firstName": "Jaś",
+                "lastName": "Fasola",
+                "email": "jas.fasola@fasola.com",
+                "phone": ""
+            },
+            {
+
+                "firstName": "Jaś2",
+                "lastName": "Fasola",
+                "email": "jas.fasola@fasola.com",
+                "phone": ""
+            }
+        ],
+    }
