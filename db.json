@@ -1,12 +1,6 @@
     {
         "users": [
-            {
-
-                "firstName": "Jaś",
-                "lastName": "Fasola",
-                "email": "jas.fasola@fasola.com",
-                "phone": ""
-            }
+            { "firstName": "Jas", "lastName": "Fasola", "email": "jas.fasola@fasola.com" }
         ],
         "posts": [
             { "id": 1, "title": "Post 1" },
